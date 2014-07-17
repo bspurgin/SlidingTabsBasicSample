@@ -1,6 +1,6 @@
 SlidingTabsBasicSample
 ===
-Forked from http://developer.android.com/samples/SlidingTabsBasic/index.html
+Copied from http://developer.android.com/samples/SlidingTabsBasic/index.html
 
 This sample shows how to use SlidingTabLayout to display a custom ViewPager title strip that gives continuous feedback to the user when scrolling.
 
